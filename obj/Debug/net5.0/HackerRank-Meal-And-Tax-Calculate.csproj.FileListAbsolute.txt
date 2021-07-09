@@ -1,0 +1,16 @@
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.exe
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.deps.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.runtimeconfig.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.runtimeconfig.dev.json
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\ref\HackerRank-Meal-And-Tax-Calculate.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\bin\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.csproj.AssemblyReference.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.AssemblyInfoInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.AssemblyInfo.cs
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.csproj.CoreCompileInputs.cache
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\ref\HackerRank-Meal-And-Tax-Calculate.dll
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.pdb
+D:\Users\Ali\Documents\Visual Studio 2019\Projects\HackerRank-Meal-And-Tax-Calculate\obj\Debug\net5.0\HackerRank-Meal-And-Tax-Calculate.genruntimeconfig.cache
